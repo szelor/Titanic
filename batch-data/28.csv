@@ -1,0 +1,11 @@
+Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+3,"Oreskovic, Miss. Jelka",female,23.0,0,0,315085,8.6625,,S
+3,"Peacock, Master. Alfred Edward",male,0.75,1,1,SOTON/O.Q. 3101315,13.775,,S
+3,"Fleming, Miss. Honora",female,,0,0,364859,7.75,,Q
+3,"Touma, Miss. Maria Youssef",female,9.0,1,1,2650,15.2458,,C
+3,"Rosblom, Miss. Salli Helena",female,2.0,1,1,370129,20.2125,,S
+3,"Dennis, Mr. William",male,36.0,0,0,A/5 21175,7.25,,S
+3,"Franklin, Mr. Charles (Charles Fardon)",male,,0,0,SOTON/O.Q. 3101314,7.25,,S
+1,"Snyder, Mr. John Pillsbury",male,24.0,1,0,21228,82.2667,B45,S
+3,"Mardirosian, Mr. Sarkis",male,,0,0,2655,7.2292,F E46,C
+3,"Ford, Mr. Arthur",male,,0,0,A/5 1478,8.05,,S

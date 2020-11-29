@@ -1,0 +1,11 @@
+Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+2,"Stanton, Mr. Samuel Ward",male,41.0,0,0,237734,15.0458,,C
+3,"Shine, Miss. Ellen Natalia",female,,0,0,330968,7.7792,,Q
+1,"Evans, Miss. Edith Corse",female,36.0,0,0,PC 17531,31.6792,A29,C
+3,"Buckley, Miss. Katherine",female,18.5,0,0,329944,7.2833,,Q
+1,"Straus, Mrs. Isidor (Rosalie Ida Blun)",female,63.0,1,0,PC 17483,221.7792,C55 C57,S
+3,"Chronopoulos, Mr. Demetrios",male,18.0,1,0,2680,14.4542,,C
+3,"Thomas, Mr. John",male,,0,0,2681,6.4375,,C
+3,"Sandstrom, Miss. Beatrice Irene",female,1.0,1,1,PP 9549,16.7,G6,S
+1,"Beattie, Mr. Thomson",male,36.0,0,0,13050,75.2417,C6,C
+2,"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",female,29.0,1,0,SC/AH 29037,26.0,,S

@@ -1,0 +1,11 @@
+Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+2,"Fillbrook, Mr. Joseph Charles",male,18.0,0,0,C.A. 15185,10.5,,S
+3,"Lundstrom, Mr. Thure Edvin",male,32.0,0,0,350403,7.5792,,S
+3,"Sage, Mr. John George",male,,1,9,CA. 2343,69.55,,S
+1,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",female,58.0,0,1,PC 17755,512.3292,B51 B53 B55,C
+3,"van Billiard, Master. James William",male,,1,1,A/5. 851,14.5,,S
+3,"Abelseth, Miss. Karen Marie",female,16.0,0,0,348125,7.65,,S
+2,"Botsford, Mr. William Hull",male,26.0,0,0,237670,13.0,,S
+3,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",female,38.0,0,0,2688,7.2292,,C
+2,"Giles, Mr. Ralph",male,24.0,0,0,248726,13.5,,S
+2,"Walcroft, Miss. Nellie",female,31.0,0,0,F.C.C. 13528,21.0,,S

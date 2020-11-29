@@ -1,0 +1,11 @@
+Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+2,"McCrie, Mr. James Matthew",male,30.0,0,0,233478,13.0,,S
+1,"Compton, Mr. Alexander Taylor Jr",male,37.0,1,1,PC 17756,83.1583,E52,C
+1,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",female,18.0,1,0,113773,53.1,D30,S
+3,"Lane, Mr. Patrick",male,,0,0,7935,7.75,,Q
+1,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",female,27.0,1,1,PC 17558,247.5208,B58 B60,C
+2,"Maybery, Mr. Frank Hubert",male,40.0,0,0,239059,16.0,,S
+2,"Phillips, Miss. Alice Frances Louisa",female,21.0,0,1,S.O./P.P. 2,21.0,,S
+3,"Davies, Mr. Joseph",male,17.0,2,0,A/4 48873,8.05,,S
+3,"Sage, Miss. Ada",female,,8,2,CA. 2343,69.55,,S
+2,"Veal, Mr. James",male,40.0,0,0,28221,13.0,,S

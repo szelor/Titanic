@@ -1,0 +1,11 @@
+Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+3,"Cacic, Mr. Jego Grga",male,18.0,0,0,315091,8.6625,,S
+3,"Vartanian, Mr. David",male,22.0,0,0,2658,7.225,,C
+3,"Sadowitz, Mr. Harry",male,,0,0,LP 1588,7.575,,S
+3,"Carr, Miss. Jeannie",female,37.0,0,0,368364,7.75,,Q
+1,"White, Mrs. John Stuart (Ella Holmes)",female,55.0,0,0,PC 17760,135.6333,C32,C
+3,"Hagardon, Miss. Kate",female,17.0,0,0,AQ/3. 30631,7.7333,,Q
+1,"Spencer, Mr. William Augustus",male,57.0,1,0,PC 17569,146.5208,B78,C
+2,"Rogers, Mr. Reginald Harry",male,19.0,0,0,28004,10.5,,S
+3,"Jonsson, Mr. Nils Hilding",male,27.0,0,0,350408,7.8542,,S
+2,"Jefferys, Mr. Ernest Wilfred",male,22.0,2,0,C.A. 31029,31.5,,S

@@ -1,0 +1,11 @@
+Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+3,"Dika, Mr. Mirko",male,17.0,0,0,349232,7.8958,,S
+2,"McCrae, Mr. Arthur Gordon",male,32.0,0,0,237216,13.5,,S
+3,"Bjorklund, Mr. Ernst Herbert",male,18.0,0,0,347090,7.75,,S
+3,"Bradley, Miss. Bridget Delia",female,22.0,0,0,334914,7.725,,Q
+1,"Ryerson, Master. John Borie",male,13.0,2,2,PC 17608,262.375,B57 B59 B63 B66,C
+2,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",female,,0,0,F.C.C. 13534,21.0,,S
+3,"Burns, Miss. Mary Delia",female,18.0,0,0,330963,7.8792,,Q
+1,"Moore, Mr. Clarence Bloomfield",male,47.0,0,0,113796,42.4,,S
+1,"Tucker, Mr. Gilbert Milligan Jr",male,31.0,0,0,2543,28.5375,C53,C
+1,"Fortune, Mrs. Mark (Mary McDougald)",female,60.0,1,4,19950,263.0,C23 C25 C27,S

@@ -1,0 +1,11 @@
+Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+1,"Greenfield, Mrs. Leo David (Blanche Strouse)",female,45.0,0,1,PC 17759,63.3583,D10 D12,C
+2,"Stokes, Mr. Philip Joseph",male,25.0,0,0,F.C.C. 13540,10.5,,S
+2,"Dibden, Mr. William",male,18.0,0,0,S.O.C. 14879,73.5,,S
+2,"Herman, Mr. Samuel",male,49.0,1,2,220845,65.0,,S
+3,"Dean, Miss. Elizabeth Gladys Millvina""""",female,0.17,1,2,C.A. 2315,20.575,,S
+1,"Julian, Mr. Henry Forbes",male,50.0,0,0,113044,26.0,E60,S
+1,"Brown, Mrs. John Murray (Caroline Lane Lamson)",female,59.0,2,0,11769,51.4792,C101,S
+3,"Lockyer, Mr. Edward",male,,0,0,1222,7.8792,,S
+3,"O'Keefe, Mr. Patrick",male,,0,0,368402,7.75,,Q
+3,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",female,30.0,1,0,349910,15.55,,S

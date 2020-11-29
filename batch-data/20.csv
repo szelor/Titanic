@@ -1,0 +1,11 @@
+Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+3,"Murphy, Miss. Nora",female,,0,0,36568,15.5,,Q
+3,"Danbom, Master. Gilbert Sigvard Emanuel",male,0.33,0,2,347080,14.4,,S
+1,"Astor, Col. John Jacob",male,47.0,1,0,PC 17757,227.525,C62 C64,C
+2,"Quick, Miss. Winifred Vera",female,8.0,1,1,26360,26.0,,S
+2,"Andrew, Mr. Frank Thomas",male,25.0,0,0,C.A. 34050,10.5,,S
+1,"Omont, Mr. Alfred Fernand",male,,0,0,F.C. 12998,25.7417,,C
+3,"McGowan, Miss. Katherine",female,35.0,0,0,9232,7.75,,Q
+2,"Collett, Mr. Sidney C Stuart",male,24.0,0,0,28034,10.5,,S
+1,"Rosenbaum, Miss. Edith Louise",female,33.0,0,0,PC 17613,27.7208,A11,C
+3,"Delalic, Mr. Redjo",male,25.0,0,0,349250,7.8958,,S

@@ -1,0 +1,11 @@
+Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+3,"Ilieff, Mr. Ylio",male,,0,0,349220,7.8958,,S
+1,"Jones, Mr. Charles Cresson",male,46.0,0,0,694,26.0,,S
+1,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",female,23.0,1,0,21228,82.2667,B45,S
+2,"Howard, Mr. Benjamin",male,63.0,1,0,24065,26.0,,S
+1,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",female,47.0,1,0,W.E.P. 5734,61.175,E31,S
+2,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",female,24.0,1,0,SC/PARIS 2167,27.7208,,C
+2,"Keane, Mr. Daniel",male,35.0,0,0,233734,12.35,,Q
+3,"Assaf, Mr. Gerios",male,21.0,0,0,2692,7.225,,C
+3,"Ilmakangas, Miss. Ida Livija",female,27.0,1,0,STON/O2. 3101270,7.925,,S
+3,"Assaf Khalil, Mrs. Mariana (Miriam"")""",female,45.0,0,0,2696,7.225,,C

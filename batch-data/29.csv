@@ -1,0 +1,11 @@
+Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+1,"Rheims, Mr. George Alexander Lucien",male,,0,0,PC 17607,39.6,,S
+3,"Daly, Miss. Margaret Marcella Maggie""""",female,30.0,0,0,382650,6.95,,Q
+3,"Nasr, Mr. Mustafa",male,,0,0,2652,7.2292,,C
+1,"Dodge, Dr. Washington",male,53.0,1,1,33638,81.8583,A34,S
+3,"Wittevrongel, Mr. Camille",male,36.0,0,0,345771,9.5,,S
+3,"Angheloff, Mr. Minko",male,26.0,0,0,349202,7.8958,,S
+2,"Laroche, Miss. Louise",female,1.0,1,2,SC/Paris 2123,41.5792,,C
+3,"Samaan, Mr. Hanna",male,,2,0,2662,21.6792,,C
+1,"Loring, Mr. Joseph Holland",male,30.0,0,0,113801,45.5,,S
+3,"Johansson, Mr. Nils",male,29.0,0,0,347467,7.8542,,S

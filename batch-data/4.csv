@@ -1,0 +1,11 @@
+Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+3,"Karun, Mr. Franz",male,39.0,0,1,349256,13.4167,,C
+1,"Franklin, Mr. Thomas Parham",male,,0,0,113778,26.55,D34,S
+3,"Goldsmith, Mr. Nathan",male,41.0,0,0,SOTON/O.Q. 3101263,7.85,,S
+2,"Corbett, Mrs. Walter H (Irene Colvin)",female,30.0,0,0,237249,13.0,,S
+1,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",female,45.0,1,0,11753,52.5542,D19,S
+3,"Peltomaki, Mr. Nikolai Johannes",male,25.0,0,0,STON/O 2. 3101291,7.925,,S
+1,"Chevre, Mr. Paul Romaine",male,45.0,0,0,PC 17594,29.7,A9,C
+3,"Shaughnessy, Mr. Patrick",male,,0,0,370374,7.75,,Q
+1,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",female,60.0,0,0,11813,76.2917,D15,C
+3,"Coutts, Mrs. William (Winnie Minnie"" Treanor)""",female,36.0,0,2,C.A. 37671,15.9,,S

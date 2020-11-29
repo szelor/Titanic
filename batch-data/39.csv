@@ -1,0 +1,11 @@
+Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+1,"Payne, Mr. Vivian Ponsonby",male,23.0,0,0,12749,93.5,B24,S
+1,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",female,51.0,0,1,PC 17592,39.4,D28,S
+3,"Abbott, Master. Eugene Joseph",male,13.0,0,2,C.A. 2673,20.25,,S
+2,"Gilbert, Mr. William",male,47.0,0,0,C.A. 30769,10.5,,S
+3,"Kink-Heilmann, Mr. Anton",male,29.0,3,1,315153,22.025,,S
+1,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",female,18.0,1,0,13695,60.0,C31,S
+3,"Colbert, Mr. Patrick",male,24.0,0,0,371109,7.25,,Q
+1,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",female,48.0,1,1,13567,79.2,B41,C
+3,"Larsson-Rondberg, Mr. Edvard A",male,22.0,0,0,347065,7.775,,S
+3,"Conlon, Mr. Thomas Henry",male,31.0,0,0,21332,7.7333,,Q

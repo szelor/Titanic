@@ -1,0 +1,11 @@
+Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+3,"de Messemaeker, Mr. Guillaume Joseph",male,36.5,1,0,345572,17.4,,S
+3,"Nilsson, Mr. August Ferdinand",male,21.0,0,0,350410,7.8542,,S
+2,"Wells, Mrs. Arthur Henry (Addie"" Dart Trevaskis)""",female,29.0,0,2,29103,23.0,,S
+3,"Klasen, Miss. Gertrud Emilia",female,1.0,1,1,350405,12.1833,,S
+2,"Portaluppi, Mr. Emilio Ilario Giuseppe",male,30.0,0,0,C.A. 34644,12.7375,,C
+3,"Lyntakoff, Mr. Stanko",male,,0,0,349235,7.8958,,S
+1,"Chisholm, Mr. Roderick Robert Crispin",male,,0,0,112051,0.0,,S
+3,"Warren, Mr. Charles William",male,,0,0,C.A. 49867,7.55,,S
+3,"Howard, Miss. May Elizabeth",female,,0,0,A. 2. 39186,8.05,,S
+3,"Pokrnic, Mr. Mate",male,17.0,0,0,315095,8.6625,,S

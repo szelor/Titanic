@@ -1,0 +1,11 @@
+Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+2,"Watt, Miss. Bertha J",female,12.0,0,0,C.A. 33595,15.75,,S
+3,"Kiernan, Mr. John",male,,1,0,367227,7.75,,Q
+1,"Schabert, Mrs. Paul (Emma Mock)",female,35.0,1,0,13236,57.75,C28,C
+3,"Carver, Mr. Alfred John",male,28.0,0,0,392095,7.25,,S
+3,"Kennedy, Mr. John",male,,0,0,368783,7.75,,Q
+3,"Cribb, Miss. Laura Alice",female,17.0,0,1,371362,16.1,,S
+3,"Brobeck, Mr. Karl Rudolf",male,22.0,0,0,350045,7.7958,,S
+3,"McCoy, Miss. Alicia",female,,2,0,367226,23.25,,Q
+2,"Bowenur, Mr. Solomon",male,42.0,0,0,211535,13.0,,S
+3,"Petersen, Mr. Marius",male,24.0,0,0,342441,8.05,,S

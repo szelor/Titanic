@@ -1,0 +1,11 @@
+Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+1,"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",female,55.0,0,0,112377,27.7208,,C
+2,"Christy, Mrs. (Alice Frances)",female,45.0,0,2,237789,30.0,,S
+1,"Spedden, Mr. Frederic Oakley",male,45.0,1,1,16966,134.5,E34,C
+3,"Hyman, Mr. Abraham",male,,0,0,3470,7.8875,,S
+3,"Johnston, Master. William Arthur Willie""""",male,,1,2,W./C. 6607,23.45,,S
+1,"Kenyon, Mr. Frederick R",male,41.0,1,0,17464,51.8625,D21,S
+2,"Karnes, Mrs. J Frank (Claire Bennett)",female,22.0,0,0,F.C.C. 13534,21.0,,S
+2,"Drew, Mr. James Vivian",male,42.0,1,1,28220,32.5,,S
+2,"Hold, Mrs. Stephen (Annie Margaret Hill)",female,29.0,1,0,26707,26.0,,S
+3,"Khalil, Mrs. Betros (Zahie Maria"" Elias)""",female,,1,0,2660,14.4542,,C

@@ -1,0 +1,11 @@
+Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+2,"Giles, Mr. Edgar",male,21.0,1,0,28133,11.5,,S
+1,"Wilson, Miss. Helen Alice",female,31.0,0,0,16966,134.5,E39 E41,C
+1,"Ismay, Mr. Joseph Bruce",male,49.0,0,0,112058,0.0,B52 B54 B56,S
+2,"Harbeck, Mr. William H",male,44.0,0,0,248746,13.0,,S
+1,"Dodge, Mrs. Washington (Ruth Vidaver)",female,54.0,1,1,33638,81.8583,A34,S
+1,"Bowen, Miss. Grace Scott",female,45.0,0,0,PC 17608,262.375,,C
+3,"Kink, Miss. Maria",female,22.0,2,0,315152,8.6625,,S
+2,"Cotterill, Mr. Henry Harry""""",male,21.0,0,0,29107,11.5,,S
+1,"Hipkins, Mr. William Edward",male,55.0,0,0,680,50.0,C39,S
+3,"Asplund, Master. Carl Edgar",male,5.0,4,2,347077,31.3875,,S

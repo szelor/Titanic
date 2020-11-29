@@ -1,0 +1,11 @@
+Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+3,"Lithman, Mr. Simon",male,,0,0,S.O./P.P. 251,7.55,,S
+3,"Zakarian, Mr. Ortin",male,27.0,0,0,2670,7.225,,C
+3,"Dyker, Mr. Adolf Fredrik",male,23.0,1,0,347072,13.9,,S
+3,"Torfa, Mr. Assad",male,,0,0,2673,7.2292,,C
+3,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",male,40.0,1,5,347077,31.3875,,S
+2,"Brown, Miss. Edith Eileen",female,15.0,0,2,29750,39.0,,S
+2,"Sincock, Miss. Maude",female,20.0,0,0,C.A. 33112,36.75,,S
+1,"Stengel, Mr. Charles Emil Henry",male,54.0,1,0,11778,55.4417,C116,C
+2,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",female,36.0,0,3,230136,39.0,F4,S
+1,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",female,64.0,0,2,PC 17756,83.1583,E45,C

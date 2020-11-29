@@ -1,0 +1,11 @@
+Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+3,"Boulos, Master. Akar",male,6.0,1,1,2678,15.2458,,C
+1,"Straus, Mr. Isidor",male,67.0,1,0,PC 17483,221.7792,C55 C57,S
+1,"Case, Mr. Howard Brown",male,49.0,0,0,19924,26.0,,S
+3,"Demetri, Mr. Marinko",male,,0,0,349238,7.8958,,S
+2,"Lamb, Mr. John Joseph",male,,0,0,240261,10.7083,,Q
+3,"Khalil, Mr. Betros",male,,1,0,2660,14.4542,,C
+3,"Barry, Miss. Julia",female,27.0,0,0,330844,7.8792,,Q
+3,"Badman, Miss. Emily Louisa",female,18.0,0,0,A/4 31416,8.05,,S
+3,"O'Donoghue, Ms. Bridget",female,,0,0,364856,7.75,,Q
+2,"Wells, Master. Ralph Lester",male,2.0,1,1,29103,23.0,,S

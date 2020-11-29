@@ -1,0 +1,9 @@
+Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+3,"Naughton, Miss. Hannah",female,,0,0,365237,7.75,,Q
+1,"Minahan, Mrs. William Edward (Lillian E Thorpe)",female,37.0,1,0,19928,90.0,C78,Q
+3,"Henriksson, Miss. Jenny Lovisa",female,28.0,0,0,347086,7.775,,S
+3,"Spector, Mr. Woolf",male,,0,0,A.5. 3236,8.05,,S
+1,"Oliva y Ocana, Dona. Fermina",female,39.0,0,0,PC 17758,108.9,C105,C
+3,"Saether, Mr. Simon Sivertsen",male,38.5,0,0,SOTON/O.Q. 3101262,7.25,,S
+3,"Ware, Mr. Frederick",male,,0,0,359309,8.05,,S
+3,"Peter, Master. Michael J",male,,1,1,2668,22.3583,,C

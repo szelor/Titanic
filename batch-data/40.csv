@@ -1,0 +1,11 @@
+Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+1,"Bonnell, Miss. Caroline",female,30.0,0,0,36928,164.8667,C7,S
+2,"Gale, Mr. Harry",male,38.0,1,0,28664,21.0,,S
+1,"Gibson, Miss. Dorothy Winifred",female,22.0,0,1,112378,59.4,,C
+1,"Carrau, Mr. Jose Pedro",male,17.0,0,0,113059,47.1,,S
+1,"Frauenthal, Mr. Isaac Gerald",male,43.0,1,0,17765,27.7208,D40,C
+2,"Nourney, Mr. Alfred (Baron von Drachstedt"")""",male,20.0,0,0,SC/PARIS 2166,13.8625,D38,C
+2,"Ware, Mr. William Jeffery",male,23.0,1,0,28666,10.5,,S
+1,"Widener, Mr. George Dunton",male,50.0,1,1,113503,211.5,C80,C
+3,"Riordan, Miss. Johanna Hannah""""",female,,0,0,334915,7.7208,,Q
+3,"Peacock, Miss. Treasteall",female,3.0,1,1,SOTON/O.Q. 3101315,13.775,,S

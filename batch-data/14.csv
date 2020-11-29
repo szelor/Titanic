@@ -1,0 +1,11 @@
+Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+3,"Goodwin, Miss. Jessie Allis",female,10.0,5,2,CA 2144,46.9,,S
+1,"Daniels, Miss. Sarah",female,33.0,0,0,113781,151.55,,S
+1,"Ryerson, Mr. Arthur Larned",male,61.0,1,3,PC 17608,262.375,B57 B59 B63 B66,C
+2,"Beauchamp, Mr. Henry James",male,28.0,0,0,244358,26.0,,S
+1,"Lindeberg-Lind, Mr. Erik Gustaf (Mr Edward Lingrey"")""",male,42.0,0,0,17475,26.55,,S
+3,"Vander Planke, Mr. Julius",male,31.0,3,0,345763,18.0,,S
+1,"Hilliard, Mr. Herbert Henry",male,,0,0,17463,51.8625,E46,S
+3,"Davies, Mr. Evan",male,22.0,0,0,SC/A4 23568,8.05,,S
+1,"Crafton, Mr. John Bertram",male,,0,0,113791,26.55,,S
+2,"Lahtinen, Rev. William",male,30.0,1,1,250651,26.0,,S

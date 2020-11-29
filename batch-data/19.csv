@@ -1,0 +1,11 @@
+Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+2,"Angle, Mr. William A",male,34.0,1,0,226875,26.0,,S
+1,"Salomon, Mr. Abraham L",male,,0,0,111163,26.0,,S
+3,"van Billiard, Master. Walter John",male,11.5,1,1,A/5. 851,14.5,,S
+2,"Lingane, Mr. John",male,61.0,0,0,235509,12.35,,Q
+2,"Drew, Master. Marshall Brines",male,8.0,0,2,28220,32.5,,S
+3,"Karlsson, Mr. Julius Konrad Eugen",male,33.0,0,0,347465,7.8542,,S
+1,"Spedden, Master. Robert Douglas",male,6.0,0,2,16966,134.5,E34,C
+3,"Nilsson, Miss. Berta Olivia",female,18.0,0,0,347066,7.775,,S
+2,"Baimbrigge, Mr. Charles Robert",male,23.0,0,0,C.A. 31030,10.5,,S
+3,"Rasmussen, Mrs. (Lena Jacobsen Solvang)",female,,0,0,65305,8.1125,,S

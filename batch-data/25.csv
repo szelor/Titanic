@@ -1,0 +1,11 @@
+Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+2,"West, Miss. Barbara J",female,0.92,1,2,C.A. 34651,27.75,,S
+3,"Abrahamsson, Mr. Abraham August Johannes",male,20.0,0,0,SOTON/O2 3101284,7.925,,S
+1,"Clark, Mr. Walter Miller",male,27.0,1,0,13508,136.7792,C89,C
+3,"Salander, Mr. Karl Johan",male,24.0,0,0,7266,9.325,,S
+3,"Wenzel, Mr. Linhart",male,32.5,0,0,345775,9.5,,S
+3,"MacKay, Mr. George William",male,,0,0,C.A. 42795,7.55,,S
+3,"Mahon, Mr. John",male,,0,0,AQ/4 3130,7.75,,Q
+3,"Niklasson, Mr. Samuel",male,28.0,0,0,363611,8.05,,S
+2,"Bentham, Miss. Lilian W",female,19.0,0,0,28404,13.0,,S
+3,"Midtsjo, Mr. Karl Albert",male,21.0,0,0,345501,7.775,,S

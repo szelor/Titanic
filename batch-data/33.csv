@@ -1,0 +1,11 @@
+Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+2,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",female,48.0,0,2,C.A. 33112,36.75,,S
+1,"Dulles, Mr. William Crothers",male,39.0,0,0,PC 17580,29.7,A18,C
+3,"Thomas, Mr. Tannous",male,,0,0,2684,7.225,,C
+3,"Nakid, Mrs. Said (Waika Mary"" Mowad)""",female,19.0,1,1,2653,15.7417,,C
+3,"Cor, Mr. Ivan",male,27.0,0,0,349229,7.8958,,S
+1,"Maguire, Mr. John Edward",male,30.0,0,0,110469,26.0,C106,S
+2,"de Brito, Mr. Jose Joaquim",male,32.0,0,0,244360,13.0,,S
+3,"Elias, Mr. Joseph",male,39.0,0,2,2675,7.2292,,C
+2,"Denbury, Mr. Herbert",male,25.0,0,0,C.A. 31029,31.5,,S
+3,"Betros, Master. Seman",male,,0,0,2622,7.2292,,C

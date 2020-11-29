@@ -1,0 +1,11 @@
+Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+2,"Sweet, Mr. George Frederick",male,14.0,0,0,220845,65.0,,S
+1,"Willard, Miss. Constance",female,21.0,0,0,113795,26.55,,S
+3,"Wiklund, Mr. Karl Johan",male,21.0,1,0,3101266,6.4958,,S
+3,"Linehan, Mr. Michael",male,,0,0,330971,7.8792,,Q
+1,"Cumings, Mr. John Bradley",male,39.0,1,0,PC 17599,71.2833,C85,C
+3,"Vendel, Mr. Olof Edvin",male,20.0,0,0,350416,7.8542,,S
+1,"Warren, Mr. Frank Manley",male,64.0,1,0,110813,75.25,D37,C
+3,"Baccos, Mr. Raffull",male,20.0,0,0,2679,7.225,,C
+2,"Hiltunen, Miss. Marta",female,18.0,1,1,250650,13.0,,S
+1,"Douglas, Mrs. Walter Donald (Mahala Dutton)",female,48.0,1,0,PC 17761,106.425,C86,C

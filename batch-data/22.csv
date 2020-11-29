@@ -1,0 +1,11 @@
+Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+2,"Duran y More, Miss. Florentina",female,30.0,1,0,SC/PARIS 2148,13.8583,,C
+3,"Reynolds, Mr. Harold J",male,21.0,0,0,342684,8.05,,S
+2,"Cook, Mrs. (Selena Rogers)",female,22.0,0,0,W./C. 14266,10.5,F33,S
+3,"Karlsson, Mr. Einar Gervasius",male,21.0,0,0,350053,7.7958,,S
+1,"Candee, Mrs. Edward (Helen Churchill Hungerford)",female,53.0,0,0,PC 17606,27.4458,,C
+3,"Moubarek, Mrs. George (Omine Amenia"" Alexander)""",female,,0,2,2661,15.2458,,C
+3,"Asplund, Mr. Johan Charles",male,23.0,0,0,350054,7.7958,,S
+3,"McNeill, Miss. Bridget",female,,0,0,370368,7.75,,Q
+3,"Everett, Mr. Thomas James",male,40.5,0,0,C.A. 6212,15.1,,S
+2,"Hocking, Mr. Samuel James Metcalfe",male,36.0,0,0,242963,13.0,,S

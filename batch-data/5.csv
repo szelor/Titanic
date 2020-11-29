@@ -1,0 +1,11 @@
+Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+1,"Smith, Mr. Lucien Philip",male,24.0,1,0,13695,60.0,C31,S
+2,"Pulbaum, Mr. Franz",male,27.0,0,0,SC/PARIS 2168,15.0333,,C
+2,"Hocking, Miss. Ellen Nellie""""",female,20.0,2,1,29105,23.0,,S
+1,"Fortune, Miss. Ethel Flora",female,28.0,3,2,19950,263.0,C23 C25 C27,S
+2,"Mangiavacchi, Mr. Serafino Emilio",male,,0,0,SC/A.3 2861,15.5792,,C
+3,"Rice, Master. Albert",male,10.0,4,1,382652,29.125,,Q
+3,"Cor, Mr. Bartol",male,35.0,0,0,349230,7.8958,,S
+3,"Abelseth, Mr. Olaus Jorgensen",male,25.0,0,0,348122,7.65,F G63,S
+3,"Davison, Mr. Thomas Henry",male,,1,0,386525,16.1,,S
+1,"Chaudanson, Miss. Victorine",female,36.0,0,0,PC 17608,262.375,B61,C

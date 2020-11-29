@@ -1,0 +1,11 @@
+Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+3,"Mulvihill, Miss. Bertha E",female,24.0,0,0,382653,7.75,,Q
+3,"Minkoff, Mr. Lazar",male,21.0,0,0,349211,7.8958,,S
+3,"Nieminen, Miss. Manta Josefina",female,29.0,0,0,3101297,7.925,,S
+1,"Ovies y Rodriguez, Mr. Servando",male,28.5,0,0,PC 17562,27.7208,D43,C
+1,"Geiger, Miss. Amalie",female,35.0,0,0,113503,211.5,C130,C
+1,"Keeping, Mr. Edwin",male,32.5,0,0,113503,211.5,C132,C
+3,"Miles, Mr. Frank",male,,0,0,359306,8.05,,S
+1,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",female,55.0,2,0,11770,25.7,C101,S
+2,"Aldworth, Mr. Charles Augustus",male,30.0,0,0,248744,13.0,,S
+3,"Doyle, Miss. Elizabeth",female,24.0,0,0,368702,7.75,,Q

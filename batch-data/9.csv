@@ -1,0 +1,11 @@
+Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+3,"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",female,22.0,1,0,347072,13.9,,S
+3,"Pedersen, Mr. Olaf",male,,0,0,345498,7.775,,S
+1,"Davidson, Mrs. Thornton (Orian Hays)",female,27.0,1,2,F.C. 12750,52.0,B71,S
+3,"Guest, Mr. Robert",male,,0,0,376563,8.05,,S
+1,"Birnbaum, Mr. Jakob",male,25.0,0,0,13905,26.0,,C
+3,"Tenglin, Mr. Gunnar Isidor",male,25.0,0,0,350033,7.7958,,S
+1,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",female,76.0,1,0,19877,78.85,C46,S
+3,"Makinen, Mr. Kalle Edvard",male,29.0,0,0,STON/O 2. 3101268,7.925,,S
+3,"Braf, Miss. Elin Ester Maria",female,20.0,0,0,347471,7.8542,,S
+3,"Nancarrow, Mr. William Henry",male,33.0,0,0,A./5. 3338,8.05,,S

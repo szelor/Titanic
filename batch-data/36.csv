@@ -1,0 +1,11 @@
+Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+3,"Sage, Master. William Henry",male,14.5,8,2,CA. 2343,69.55,,S
+2,"Mallet, Mrs. Albert (Antoinette Magnin)",female,24.0,1,1,S.C./PARIS 2079,37.0042,,C
+2,"Ware, Mrs. John James (Florence Louise Long)",female,31.0,0,0,CA 31352,21.0,,S
+3,"Strilic, Mr. Ivan",male,27.0,0,0,315083,8.6625,,S
+1,"Harder, Mrs. George Achilles (Dorothy Annan)",female,25.0,1,0,11765,55.4417,E50,C
+3,"Sage, Mrs. John (Annie Bullen)",female,,1,9,CA. 2343,69.55,,S
+3,"Caram, Mr. Joseph",male,,1,0,2689,14.4583,,C
+3,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",female,22.0,0,0,3101295,39.6875,,S
+1,"Gibson, Mrs. Leonard (Pauline C Boeson)",female,45.0,0,1,112378,59.4,,C
+2,"Pallas y Castello, Mr. Emilio",male,29.0,0,0,SC/PARIS 2147,13.8583,,C

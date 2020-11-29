@@ -1,0 +1,11 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+766,1,1,"Hogeboom, Mrs. John C (Anna Andrews)",female,51.0,1,0,13502,77.9583,D11,S
+216,1,1,"Newell, Miss. Madeleine",female,31.0,1,0,35273,113.275,D36,C
+118,0,2,"Turpin, Mr. William John Robert",male,29.0,1,0,11668,21.0,,S
+273,1,2,"Mellinger, Mrs. (Elizabeth Anne Maidment)",female,41.0,0,1,250644,19.5,,S
+666,0,2,"Hickman, Mr. Lewis",male,32.0,2,0,S.O.C. 14879,73.5,,S
+748,1,2,"Sinkkonen, Miss. Anna",female,30.0,0,0,250648,13.0,,S
+549,0,3,"Goldsmith, Mr. Frank John",male,33.0,1,1,363291,20.525,,S
+708,1,1,"Calderhead, Mr. Edward Pennington",male,42.0,0,0,PC 17476,26.2875,E24,S
+325,0,3,"Sage, Mr. George John Jr",male,,8,2,CA. 2343,69.55,,S
+440,0,2,"Kvillner, Mr. Johan Henrik Johannesson",male,31.0,0,0,C.A. 18723,10.5,,S

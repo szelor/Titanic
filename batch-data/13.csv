@@ -1,0 +1,11 @@
+Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+3,"Spinner, Mr. Henry John",male,32.0,0,0,STON/OQ. 369943,8.05,,S
+1,"Gracie, Col. Archibald IV",male,53.0,0,0,113780,28.5,C51,C
+3,"Lefebre, Mrs. Frank (Frances)",female,,0,4,4133,25.4667,,S
+3,"Thomas, Mr. Charles P",male,,1,0,2621,6.4375,,C
+3,"Dintcheff, Mr. Valtcho",male,43.0,0,0,349226,7.8958,,S
+3,"Carlsson, Mr. Carl Robert",male,24.0,0,0,350409,7.8542,,S
+3,"Zakarian, Mr. Mapriededer",male,26.5,0,0,2656,7.225,,C
+2,"Schmidt, Mr. August",male,26.0,0,0,248659,13.0,,S
+3,"Drapkin, Miss. Jennie",female,23.0,0,0,SOTON/OQ 392083,8.05,,S
+3,"Goodwin, Mr. Charles Frederick",male,40.0,1,6,CA 2144,46.9,,S

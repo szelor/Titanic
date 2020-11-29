@@ -1,0 +1,11 @@
+Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+2,"Louch, Mr. Charles Alexander",male,50.0,1,0,SC/AH 3085,26.0,,S
+2,"Jefferys, Mr. Clifford Thomas",male,24.0,2,0,C.A. 31029,31.5,,S
+3,"Dean, Mrs. Bertram (Eva Georgetta Light)",female,33.0,1,2,C.A. 2315,20.575,,S
+3,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",female,,1,2,W./C. 6607,23.45,,S
+1,"Mock, Mr. Philipp Edmund",male,30.0,1,0,13236,57.75,C78,C
+3,"Katavelas, Mr. Vassilios (Catavelas Vassilios"")""",male,18.5,0,0,2682,7.2292,,C
+3,"Roth, Miss. Sarah A",female,,0,0,342712,8.05,,S
+3,"Cacic, Miss. Manda",female,21.0,0,0,315087,8.6625,,S
+3,"Sap, Mr. Julius",male,25.0,0,0,345768,9.5,,S
+3,"Hee, Mr. Ling",male,,0,0,1601,56.4958,,S

@@ -1,0 +1,11 @@
+Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+3,"Andersson, Mr. Johan Samuel",male,26.0,0,0,347075,7.775,,S
+3,"Krekorian, Mr. Neshan",male,25.0,0,0,2654,7.2292,F E57,C
+2,"Nesson, Mr. Israel",male,26.0,0,0,244368,13.0,F2,S
+1,"Rowe, Mr. Alfred G",male,33.0,0,0,113790,26.55,,S
+1,"Kreuchen, Miss. Emilie",female,39.0,0,0,24160,211.3375,,S
+3,"Assam, Mr. Ali",male,23.0,0,0,SOTON/O.Q. 3101309,7.05,,S
+2,"Becker, Miss. Ruth Elizabeth",female,12.0,2,1,230136,39.0,F4,S
+1,"Rosenshine, Mr. George (Mr George Thorne"")""",male,46.0,0,0,PC 17585,79.2,,C
+2,"Clarke, Mr. Charles Valentine",male,29.0,1,0,2003,26.0,,S
+2,"Enander, Mr. Ingvar",male,21.0,0,0,236854,13.0,,S

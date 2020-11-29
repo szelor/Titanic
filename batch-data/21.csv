@@ -1,0 +1,11 @@
+Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+3,"Andersen, Mr. Albert Karvin",male,32.0,0,0,C 4001,22.525,,S
+3,"Finoli, Mr. Luigi",male,,0,0,SOTON/O.Q. 3101308,7.05,,S
+2,"Deacon, Mr. Percy William",male,17.0,0,0,S.O.C. 14879,73.5,,S
+2,"Howard, Mrs. Benjamin (Ellen Truelove Arman)",female,60.0,1,0,24065,26.0,,S
+3,"Andersson, Miss. Ida Augusta Margareta",female,38.0,4,2,347091,7.775,,S
+1,"Head, Mr. Christopher",male,42.0,0,0,113038,42.5,B11,S
+3,"Mahon, Miss. Bridget Delia",female,,0,0,330924,7.8792,,Q
+1,"Wick, Mr. George Dennick",male,57.0,1,1,36928,164.8667,,S
+1,"Widener, Mrs. George Dunton (Eleanor Elkins)",female,50.0,1,1,113503,211.5,C80,C
+3,"Thomson, Mr. Alexander Morrison",male,,0,0,32302,8.05,,S

@@ -1,0 +1,11 @@
+Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+3,"O'Connor, Mr. Patrick",male,,0,0,366713,7.75,,Q
+3,"Foley, Mr. Joseph",male,26.0,0,0,330910,7.8792,,Q
+3,"Risien, Mrs. Samuel (Emma)",female,,0,0,364498,14.5,,S
+3,"McNamee, Mrs. Neal (Eileen O'Leary)",female,19.0,1,0,376566,16.1,,S
+2,"Wheeler, Mr. Edwin Frederick""""",male,,0,0,SC/PARIS 2159,12.875,,S
+2,"Herman, Miss. Kate",female,24.0,1,2,220845,65.0,,S
+3,"Aronsson, Mr. Ernst Axel Algot",male,24.0,0,0,349911,7.775,,S
+2,"Ashby, Mr. John",male,57.0,0,0,244346,13.0,,S
+3,"Canavan, Mr. Patrick",male,21.0,0,0,364858,7.75,,Q
+3,"Palsson, Master. Paul Folke",male,6.0,3,1,349909,21.075,,S

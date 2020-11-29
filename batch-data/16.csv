@@ -1,0 +1,11 @@
+Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+3,"Smyth, Miss. Julia",female,,0,0,335432,7.7333,,Q
+3,"Touma, Master. Georges Youssef",male,7.0,1,1,2650,15.2458,,C
+2,"Wright, Miss. Marion",female,26.0,0,0,220844,13.5,,S
+3,"Pearce, Mr. Ernest",male,,0,0,343271,7.0,,S
+2,"Peruschitz, Rev. Joseph Maria",male,41.0,0,0,237393,13.0,,S
+3,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",female,26.0,1,1,315153,22.025,,S
+1,"Brandeis, Mr. Emil",male,48.0,0,0,PC 17591,50.4958,B10,C
+3,"Ford, Mr. Edward Watson",male,18.0,2,2,W./C. 6608,34.375,,S
+1,"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",female,,0,0,17770,27.7208,,C
+3,"Hellstrom, Miss. Hilda Maria",female,22.0,0,0,7548,8.9625,,S
