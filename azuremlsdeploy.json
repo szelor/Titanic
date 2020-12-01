@@ -94,7 +94,7 @@
     },
     "keyVaultName": {
       "type": "string",
-      "defaultValue": "HPG-KV-999999",
+      "defaultValue": "HPG-KV-999999ms1",
       "metadata": {
         "description": "Name of the key vault."
       }
@@ -156,7 +156,7 @@
     },
     "containerRegistryName": {
       "type": "string",
-      "defaultValue": "HPG-ACR-999999",
+      "defaultValue": "HPG-ACR-999999ms1",
       "metadata": {
         "description": "The container registry bind to the workspace."
       }
